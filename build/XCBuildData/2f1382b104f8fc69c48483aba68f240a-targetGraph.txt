@@ -1,0 +1,59 @@
+Target dependency graph (18 targets)
+ApolloAPI in Apollo, no dependencies
+ApolloUtils in Apollo, no dependencies
+Apollo in Apollo, depends on:
+ApolloAPI in Apollo (explicit)
+ApolloUtils in Apollo (explicit)
+Apollo-Dynamic in Apollo, depends on:
+Apollo in Apollo (explicit)
+ApolloAPI in Apollo (explicit)
+ApolloUtils in Apollo (explicit)
+ApolloAPI in Apollo, depends on:
+ApolloAPI in Apollo (explicit)
+SQLiteObjc in SQLite.swift, no dependencies
+SQLite in SQLite.swift, depends on:
+SQLiteObjc in SQLite.swift (explicit)
+SQLite in SQLite.swift, depends on:
+SQLite in SQLite.swift (explicit)
+SQLiteObjc in SQLite.swift (explicit)
+ApolloSQLite in Apollo, depends on:
+ApolloAPI in Apollo (explicit)
+ApolloUtils in Apollo (explicit)
+Apollo in Apollo (explicit)
+SQLite in SQLite.swift (explicit)
+ApolloSQLite in Apollo, depends on:
+ApolloSQLite in Apollo (explicit)
+ApolloAPI in Apollo (explicit)
+ApolloUtils in Apollo (explicit)
+Apollo in Apollo (explicit)
+SQLite in SQLite.swift (explicit)
+ApolloWebSocket in Apollo, depends on:
+ApolloAPI in Apollo (explicit)
+ApolloUtils in Apollo (explicit)
+Apollo in Apollo (explicit)
+ApolloWebSocket in Apollo, depends on:
+ApolloWebSocket in Apollo (explicit)
+ApolloAPI in Apollo (explicit)
+ApolloUtils in Apollo (explicit)
+Apollo in Apollo (explicit)
+ApolloUtils in Apollo, depends on:
+ApolloUtils in Apollo (explicit)
+Apollo in Apollo, depends on:
+Apollo in Apollo (explicit)
+ApolloAPI in Apollo (explicit)
+ApolloUtils in Apollo (explicit)
+Apollo_ApolloCodegenLib in Apollo, no dependencies
+ApolloCodegenLib in Apollo, depends on:
+Apollo_ApolloCodegenLib in Apollo (explicit)
+ApolloUtils in Apollo (explicit)
+ApolloCodegenLib in Apollo, depends on:
+ApolloCodegenLib in Apollo (explicit)
+ApolloUtils in Apollo (explicit)
+rickmortygraphql in rickmortygraphql, depends on:
+Apollo-Dynamic in Apollo (explicit)
+ApolloAPI in Apollo (explicit)
+ApolloSQLite in Apollo (explicit)
+ApolloWebSocket in Apollo (explicit)
+ApolloUtils in Apollo (explicit)
+Apollo in Apollo (explicit)
+ApolloCodegenLib in Apollo (explicit)
